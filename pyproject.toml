@@ -9,24 +9,28 @@ authors = [
     { email = "johannes-programming@mailfence.com", name = "Johannes" },
 ]
 classifiers = [
-    "Development Status :: 1 - Planning",
+    "Development Status :: 2 - Pre-Alpha",
     "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
+    "Typing :: Typed",
 ]
 dependencies = []
-description = "primerdata"
+description = "This project gives data about primers."
 keywords = []
 name = "primerdata"
 readme = "README.rst"
-requires-python = ">=3.12.7"
-version = "0.0.0.dev0"
+requires-python = ">=3.11"
+version = "0.0.0.dev0+local"
 
 [project.license]
 file = "LICENSE.txt"
 
 [project.urls]
-Documentation = "https://pypi.org/project/primerdata"
+Documentation = "https://pypi.org/project/primerdata/"
 Download = "https://pypi.org/project/primerdata/#files"
-Source = "https://github.com/johannes-programming/primerdata"
+Index = "https://pypi.org/project/primerdata/"
+Source = "https://github.com/johannes-programming/primerdata/"
